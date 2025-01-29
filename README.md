@@ -1,4 +1,4 @@
-
+# Amigo Secreto 🎁
 Esse é um projeto simples de **Amigo Secreto** feito em HTML, CSS e JavaScript. É uma versão bem básica onde você pode adicionar os nomes dos participantes e sortear quem será o amigo secreto de quem! 🎅🤶
 
 ## Funcionalidades ✨
